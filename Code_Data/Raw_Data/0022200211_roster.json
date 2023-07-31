@@ -1,0 +1,589 @@
+{
+  "data": {
+    "gameId": "0022200211",
+    "homeTeam": {
+      "teamId": 1610612766,
+      "teamName": "Hornets",
+      "teamCity": "Charlotte",
+      "teamTricode": "CHA",
+      "status": "ACTIVE",
+      "players": [
+        {
+          "personId": 1630163,
+          "name": "LaMelo Ball",
+          "nameI": "L. Ball",
+          "firstName": "LaMelo",
+          "familyName": "Ball",
+          "jerseyNum": "1",
+          "starter": "1",
+          "position": "G",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630547,
+          "name": "James Bouknight",
+          "nameI": "J. Bouknight",
+          "firstName": "James",
+          "familyName": "Bouknight",
+          "jerseyNum": "2",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1626179,
+          "name": "Terry Rozier",
+          "nameI": "T. Rozier",
+          "firstName": "Terry",
+          "familyName": "Rozier",
+          "jerseyNum": "3",
+          "starter": "1",
+          "position": "G",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630208,
+          "name": "Nick Richards",
+          "nameI": "N. Richards",
+          "firstName": "Nick",
+          "familyName": "Richards",
+          "jerseyNum": "4",
+          "starter": "0",
+          "position": "C",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1631109,
+          "name": "Mark Williams",
+          "nameI": "M. Williams",
+          "firstName": "Mark",
+          "familyName": "Williams",
+          "jerseyNum": "5",
+          "starter": "0",
+          "position": "C",
+          "teamId": 1610612766,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_INJURY",
+          "notPlayingDescription": "Left Ankle; Sprain "
+        },
+        {
+          "personId": 1629667,
+          "name": "Jalen McDaniels",
+          "nameI": "J. McDaniels",
+          "firstName": "Jalen",
+          "familyName": "McDaniels",
+          "jerseyNum": "6",
+          "starter": "0",
+          "position": "FC",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1631121,
+          "name": "Bryce McGowens",
+          "nameI": "B. McGowens",
+          "firstName": "Bryce",
+          "familyName": "McGowens",
+          "jerseyNum": "7",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1628372,
+          "name": "Dennis Smith Jr.",
+          "nameI": "D. Smith Jr.",
+          "firstName": "Dennis",
+          "familyName": "Smith Jr.",
+          "jerseyNum": "8",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612766,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_INJURY",
+          "notPlayingDescription": "Left Ankle; Sprain "
+        },
+        {
+          "personId": 1630177,
+          "name": "Theo Maledon",
+          "nameI": "T. Maledon",
+          "firstName": "Theo",
+          "familyName": "Maledon",
+          "jerseyNum": "9",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1628998,
+          "name": "Cody Martin",
+          "nameI": "C. Martin",
+          "firstName": "Cody",
+          "familyName": "Martin",
+          "jerseyNum": "11",
+          "starter": "0",
+          "position": "F",
+          "teamId": 1610612766,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_INJURY",
+          "notPlayingDescription": "Left Knee; Procedure "
+        },
+        {
+          "personId": 1626162,
+          "name": "Kelly Oubre Jr.",
+          "nameI": "K. Oubre Jr.",
+          "firstName": "Kelly",
+          "familyName": "Oubre Jr.",
+          "jerseyNum": "12",
+          "starter": "1",
+          "position": "FG",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 202330,
+          "name": "Gordon Hayward",
+          "nameI": "G. Hayward",
+          "firstName": "Gordon",
+          "familyName": "Hayward",
+          "jerseyNum": "20",
+          "starter": "0",
+          "position": "F",
+          "teamId": 1610612766,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_INJURY",
+          "notPlayingDescription": "Left Shoulder; Contusion "
+        },
+        {
+          "personId": 1630550,
+          "name": "JT Thor",
+          "nameI": "J. Thor",
+          "firstName": "JT",
+          "familyName": "Thor",
+          "jerseyNum": "21",
+          "starter": "0",
+          "position": "F",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630539,
+          "name": "Kai Jones",
+          "nameI": "K. Jones",
+          "firstName": "Kai",
+          "familyName": "Jones",
+          "jerseyNum": "23",
+          "starter": "0",
+          "position": "CF",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 203486,
+          "name": "Mason Plumlee",
+          "nameI": "M. Plumlee",
+          "firstName": "Mason",
+          "familyName": "Plumlee",
+          "jerseyNum": "24",
+          "starter": "1",
+          "position": "C",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1629023,
+          "name": "P.J. Washington",
+          "nameI": "P. Washington",
+          "firstName": "P.J.",
+          "familyName": "Washington",
+          "jerseyNum": "25",
+          "starter": "1",
+          "position": "F",
+          "teamId": 1610612766,
+          "status": "ACTIVE"
+        }
+      ],
+      "staff": [
+        {
+          "personId": 777,
+          "name": "Rex Walters",
+          "nameI": "R. Walters",
+          "firstName": "Rex",
+          "familyName": "Walters",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 1831,
+          "name": "Marlon Garnett",
+          "nameI": "M. Garnett",
+          "firstName": "Marlon",
+          "familyName": "Garnett",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 2168,
+          "name": "Steve Clifford",
+          "nameI": "S. Clifford",
+          "firstName": "Steve",
+          "familyName": "Clifford",
+          "position": "COACH_HEAD"
+        },
+        {
+          "personId": 2630,
+          "name": "Bob Beyer",
+          "nameI": "B. Beyer",
+          "firstName": "Bob",
+          "familyName": "Beyer",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 2821,
+          "name": "Ty Corbin",
+          "nameI": "T. Corbin",
+          "firstName": "Ty",
+          "familyName": "Corbin",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 101278,
+          "name": "Joe Sharpe",
+          "nameI": "J. Sharpe",
+          "firstName": "Joe",
+          "familyName": "Sharpe",
+          "position": "TRAINER"
+        },
+        {
+          "personId": 200599,
+          "name": "Norm Richardson",
+          "nameI": "N. Richardson",
+          "firstName": "Norm",
+          "familyName": "Richardson",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 204035,
+          "name": "Jay Hernandez",
+          "nameI": "J. Hernandez",
+          "firstName": "Jay",
+          "familyName": "Hernandez",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 1627164,
+          "name": "Bruce Kreutzer",
+          "nameI": "B. Kreutzer",
+          "firstName": "Bruce",
+          "familyName": "Kreutzer",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 1628809,
+          "name": "Nick Friedman",
+          "nameI": "N. Friedman",
+          "firstName": "Nick",
+          "familyName": "Friedman",
+          "position": "COACH_ASSISTANT"
+        }
+      ]
+    },
+    "awayTeam": {
+      "teamId": 1610612754,
+      "teamName": "Pacers",
+      "teamCity": "Indiana",
+      "teamTricode": "IND",
+      "status": "ACTIVE",
+      "players": [
+        {
+          "personId": 1630169,
+          "name": "Tyrese Haliburton",
+          "nameI": "T. Haliburton",
+          "firstName": "Tyrese",
+          "familyName": "Haliburton",
+          "jerseyNum": "0",
+          "starter": "1",
+          "position": "G",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1631097,
+          "name": "Bennedict Mathurin",
+          "nameI": "B. Mathurin",
+          "firstName": "Bennedict",
+          "familyName": "Mathurin",
+          "jerseyNum": "00",
+          "starter": "0",
+          "position": "GF",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1629614,
+          "name": "Andrew Nembhard",
+          "nameI": "A. Nembhard",
+          "firstName": "Andrew",
+          "familyName": "Nembhard",
+          "jerseyNum": "2",
+          "starter": "1",
+          "position": "GF",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630537,
+          "name": "Chris Duarte",
+          "nameI": "C. Duarte",
+          "firstName": "Chris",
+          "familyName": "Duarte",
+          "jerseyNum": "3",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612754,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_INJURY",
+          "notPlayingDescription": "Left Ankle; Sprain"
+        },
+        {
+          "personId": 1630243,
+          "name": "Trevelin Queen",
+          "nameI": "T. Queen",
+          "firstName": "Trevelin",
+          "familyName": "Queen",
+          "jerseyNum": "8",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612754,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_GLEAGUE_TWOWAY"
+        },
+        {
+          "personId": 204456,
+          "name": "T.J. McConnell",
+          "nameI": "T. McConnell",
+          "firstName": "T.J.",
+          "familyName": "McConnell",
+          "jerseyNum": "9",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1631112,
+          "name": "Kendall Brown",
+          "nameI": "K. Brown",
+          "firstName": "Kendall",
+          "familyName": "Brown",
+          "jerseyNum": "10",
+          "starter": "0",
+          "position": "G",
+          "teamId": 1610612754,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_GLEAGUE_TWOWAY"
+        },
+        {
+          "personId": 1629052,
+          "name": "Oshae Brissett",
+          "nameI": "O. Brissett",
+          "firstName": "Oshae",
+          "familyName": "Brissett",
+          "jerseyNum": "12",
+          "starter": "0",
+          "position": "FG",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 201949,
+          "name": "James Johnson",
+          "nameI": "J. Johnson",
+          "firstName": "James",
+          "familyName": "Johnson",
+          "jerseyNum": "16",
+          "starter": "0",
+          "position": "F",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630678,
+          "name": "Terry Taylor",
+          "nameI": "T. Taylor",
+          "firstName": "Terry",
+          "familyName": "Taylor",
+          "jerseyNum": "21",
+          "starter": "0",
+          "position": "F",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630543,
+          "name": "Isaiah Jackson",
+          "nameI": "I. Jackson",
+          "firstName": "Isaiah",
+          "familyName": "Jackson",
+          "jerseyNum": "22",
+          "starter": "0",
+          "position": "F",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630174,
+          "name": "Aaron Nesmith",
+          "nameI": "A. Nesmith",
+          "firstName": "Aaron",
+          "familyName": "Nesmith",
+          "jerseyNum": "23",
+          "starter": "0",
+          "position": "GF",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1627741,
+          "name": "Buddy Hield",
+          "nameI": "B. Hield",
+          "firstName": "Buddy",
+          "familyName": "Hield",
+          "jerseyNum": "24",
+          "starter": "1",
+          "position": "G",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1630188,
+          "name": "Jalen Smith",
+          "nameI": "J. Smith",
+          "firstName": "Jalen",
+          "familyName": "Smith",
+          "jerseyNum": "25",
+          "starter": "1",
+          "position": "FC",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1628464,
+          "name": "Daniel Theis",
+          "nameI": "D. Theis",
+          "firstName": "Daniel",
+          "familyName": "Theis",
+          "jerseyNum": "27",
+          "starter": "0",
+          "position": "FC",
+          "teamId": 1610612754,
+          "status": "INACTIVE",
+          "notPlayingReason": "INACTIVE_INJURY",
+          "notPlayingDescription": "Right Knee; Surgery "
+        },
+        {
+          "personId": 1626167,
+          "name": "Myles Turner",
+          "nameI": "M. Turner",
+          "firstName": "Myles",
+          "familyName": "Turner",
+          "jerseyNum": "33",
+          "starter": "1",
+          "position": "CF",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        },
+        {
+          "personId": 1629048,
+          "name": "Goga Bitadze",
+          "nameI": "G. Bitadze",
+          "firstName": "Goga",
+          "familyName": "Bitadze",
+          "jerseyNum": "88",
+          "starter": "0",
+          "position": "CF",
+          "teamId": 1610612754,
+          "status": "ACTIVE"
+        }
+      ],
+      "staff": [
+        {
+          "personId": 384,
+          "name": "Calbert Cheaney",
+          "nameI": "C. Cheaney",
+          "firstName": "Calbert",
+          "familyName": "Cheaney",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 1320,
+          "name": "Rick Carlisle",
+          "nameI": "R. Carlisle",
+          "firstName": "Rick",
+          "familyName": "Carlisle",
+          "position": "COACH_HEAD"
+        },
+        {
+          "personId": 2457,
+          "name": "Jannero Pargo",
+          "nameI": "J. Pargo",
+          "firstName": "Jannero",
+          "familyName": "Pargo",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 100616,
+          "name": "Jenny Boucek",
+          "nameI": "J. Boucek",
+          "firstName": "Jenny",
+          "familyName": "Boucek",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 101200,
+          "name": "Josh Corbeil",
+          "nameI": "J. Corbeil",
+          "firstName": "Josh",
+          "familyName": "Corbeil",
+          "position": "TRAINER"
+        },
+        {
+          "personId": 201675,
+          "name": "Carl Eaton",
+          "nameI": "C. Eaton",
+          "firstName": "Carl",
+          "familyName": "Eaton",
+          "position": "SCOUT_ADVANCE"
+        },
+        {
+          "personId": 202603,
+          "name": "Lloyd Pierce",
+          "nameI": "L. Pierce",
+          "firstName": "Lloyd",
+          "familyName": "Pierce",
+          "position": "SCOUT_ADVANCE"
+        },
+        {
+          "personId": 203753,
+          "name": "Ronald Nored",
+          "nameI": "R. Nored",
+          "firstName": "Ronald",
+          "familyName": "Nored",
+          "position": "COACH_ASSISTANT"
+        },
+        {
+          "personId": 1628782,
+          "name": "Mike Weinar",
+          "nameI": "M. Weinar",
+          "firstName": "Mike",
+          "familyName": "Weinar",
+          "position": "COACH_ASSISTANT"
+        }
+      ]
+    }
+  }
+}
